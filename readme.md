@@ -4,4 +4,4 @@ Line 1
 
 ## Heading 2 
 
-Line 2 
+Line 2
